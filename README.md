@@ -28,9 +28,9 @@ I'm **Deepasha Sharma**, a finance brain with a marketing tongue.
 
 ##  Tech & Tools
 
-- HTML & CSS (raw and unfiltered)  
-- GitHub Pages (because free hosting is sexy)  
-- A very real human behind the code
+- HTML & CSS (learnt in school ofc)  
+- GitHub Pages (because free hosting is lovely)  
+- A very real human behind the code (maybe)
 
 ---
 
