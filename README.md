@@ -1,4 +1,4 @@
-# 💻 Hello, Internet.
+#  Hello, Internet.
 
 I'm **Deepasha Sharma**, a finance brain with a marketing tongue.
 
@@ -7,7 +7,7 @@ I'm **Deepasha Sharma**, a finance brain with a marketing tongue.
 
 ---
 
-## 👀 What’s Inside?
+##  What’s Inside?
 
 -  A brutally minimal personal site  (as far as my coding skills goes as of now)
 -  A resume that speaks louder than small talk  
@@ -16,7 +16,7 @@ I'm **Deepasha Sharma**, a finance brain with a marketing tongue.
 
 ---
 
-## 🧠 Skills I’m Sharpening
+##  Skills I’m Sharpening
 
 - Financial Research  
 - Social Media Strategy  
@@ -26,7 +26,7 @@ I'm **Deepasha Sharma**, a finance brain with a marketing tongue.
 
 ---
 
-## 🧰 Tech & Tools
+##  Tech & Tools
 
 - HTML & CSS (raw and unfiltered)  
 - GitHub Pages (because free hosting is sexy)  
@@ -34,7 +34,7 @@ I'm **Deepasha Sharma**, a finance brain with a marketing tongue.
 
 ---
 
-## 🧬 Currently
+##  Currently
 
 - Interning at TORAH Learning Solutions  
 - Building brand value & student engagement strategies  
@@ -43,7 +43,7 @@ I'm **Deepasha Sharma**, a finance brain with a marketing tongue.
 
 ---
 
-## 🤙 Connect With Me
+##  Connect With Me
 
 - **Email**: deepashachaudhary@gmail.com  
 - **LinkedIn**: [linkedin.com/in/deepasha](https://linkedin.com/in/deepasha)
